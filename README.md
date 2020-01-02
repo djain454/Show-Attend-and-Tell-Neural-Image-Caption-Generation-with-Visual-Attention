@@ -24,7 +24,4 @@ https://arxiv.org/abs/1502.03044
 
 6. Train the model both with and without attention and compare the results.
 
-# Reference Codes- 
-1. https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning
-2. https://github.com/parksunwoo/show_attend_and_tell_pytorch
-3. https://github.com/AaronCCWong/Show-Attend-and-Tell
+
